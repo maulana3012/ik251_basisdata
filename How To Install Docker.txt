@@ -1,0 +1,10 @@
+A. Aktifkan WSL 2 di Windows
+1. Buka PowerShell sebagai Administrator (klik kanan menu Start > Terminal/PowerShell as Administrator).
+2. Jalankan Perintah : wsl --install
+3. Jika Sudah Selesai Restart Komputer
+
+B. Install Docker Dekstop
+
+C. Verifikasi Docker Dekstop
+1. docker --version
+2. untuk menguji docker sudah aktif dan dapat digunakan docker run hello-world
